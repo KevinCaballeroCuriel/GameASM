@@ -1,0 +1,29 @@
+C:\Users\Gabo\source\repos\JuegoEnsamblador\JuegoEnsamblador\bin\Debug\JuegoEnsamblador.exe.config
+C:\Users\Gabo\source\repos\JuegoEnsamblador\JuegoEnsamblador\bin\Debug\JuegoEnsamblador.exe
+C:\Users\Gabo\source\repos\JuegoEnsamblador\JuegoEnsamblador\bin\Debug\JuegoEnsamblador.pdb
+C:\Users\Gabo\source\repos\JuegoEnsamblador\JuegoEnsamblador\obj\Debug\JuegoEnsamblador.csprojAssemblyReference.cache
+C:\Users\Gabo\source\repos\JuegoEnsamblador\JuegoEnsamblador\obj\Debug\JuegoEnsamblador.Properties.Resources.resources
+C:\Users\Gabo\source\repos\JuegoEnsamblador\JuegoEnsamblador\obj\Debug\JuegoEnsamblador.csproj.GenerateResource.cache
+C:\Users\Gabo\source\repos\JuegoEnsamblador\JuegoEnsamblador\obj\Debug\JuegoEnsamblador.exe
+C:\Users\Gabo\source\repos\JuegoEnsamblador\JuegoEnsamblador\obj\Debug\JuegoEnsamblador.pdb
+C:\Users\Gabo\source\repos\JuegoEnsamblador\JuegoEnsamblador\obj\Debug\JuegoEnsamblador.Juego.resources
+C:\Users\KevinCaballero\Desktop\JuegoEnsamblador\JuegoEnsamblador\bin\Debug\JuegoEnsamblador.exe.config
+C:\Users\KevinCaballero\Desktop\JuegoEnsamblador\JuegoEnsamblador\bin\Debug\JuegoEnsamblador.exe
+C:\Users\KevinCaballero\Desktop\JuegoEnsamblador\JuegoEnsamblador\bin\Debug\JuegoEnsamblador.pdb
+C:\Users\KevinCaballero\Desktop\JuegoEnsamblador\JuegoEnsamblador\obj\Debug\JuegoEnsamblador.csprojAssemblyReference.cache
+C:\Users\KevinCaballero\Desktop\JuegoEnsamblador\JuegoEnsamblador\obj\Debug\JuegoEnsamblador.Juego.resources
+C:\Users\KevinCaballero\Desktop\JuegoEnsamblador\JuegoEnsamblador\obj\Debug\JuegoEnsamblador.Properties.Resources.resources
+C:\Users\KevinCaballero\Desktop\JuegoEnsamblador\JuegoEnsamblador\obj\Debug\JuegoEnsamblador.csproj.GenerateResource.cache
+C:\Users\KevinCaballero\Desktop\JuegoEnsamblador\JuegoEnsamblador\obj\Debug\JuegoEnsamblador.csproj.CoreCompileInputs.cache
+C:\Users\KevinCaballero\Desktop\JuegoEnsamblador\JuegoEnsamblador\obj\Debug\JuegoEnsamblador.exe
+C:\Users\KevinCaballero\Desktop\JuegoEnsamblador\JuegoEnsamblador\obj\Debug\JuegoEnsamblador.pdb
+D:\Documents\ITH\SEMESTRE VI\Lenguajes de interfaz\JuegoEnsamblador\JuegoEnsamblador\bin\Debug\JuegoEnsamblador.exe.config
+D:\Documents\ITH\SEMESTRE VI\Lenguajes de interfaz\JuegoEnsamblador\JuegoEnsamblador\bin\Debug\JuegoEnsamblador.exe
+D:\Documents\ITH\SEMESTRE VI\Lenguajes de interfaz\JuegoEnsamblador\JuegoEnsamblador\bin\Debug\JuegoEnsamblador.pdb
+D:\Documents\ITH\SEMESTRE VI\Lenguajes de interfaz\JuegoEnsamblador\JuegoEnsamblador\obj\Debug\JuegoEnsamblador.csprojAssemblyReference.cache
+D:\Documents\ITH\SEMESTRE VI\Lenguajes de interfaz\JuegoEnsamblador\JuegoEnsamblador\obj\Debug\JuegoEnsamblador.Juego.resources
+D:\Documents\ITH\SEMESTRE VI\Lenguajes de interfaz\JuegoEnsamblador\JuegoEnsamblador\obj\Debug\JuegoEnsamblador.Properties.Resources.resources
+D:\Documents\ITH\SEMESTRE VI\Lenguajes de interfaz\JuegoEnsamblador\JuegoEnsamblador\obj\Debug\JuegoEnsamblador.csproj.GenerateResource.cache
+D:\Documents\ITH\SEMESTRE VI\Lenguajes de interfaz\JuegoEnsamblador\JuegoEnsamblador\obj\Debug\JuegoEnsamblador.csproj.CoreCompileInputs.cache
+D:\Documents\ITH\SEMESTRE VI\Lenguajes de interfaz\JuegoEnsamblador\JuegoEnsamblador\obj\Debug\JuegoEnsamblador.exe
+D:\Documents\ITH\SEMESTRE VI\Lenguajes de interfaz\JuegoEnsamblador\JuegoEnsamblador\obj\Debug\JuegoEnsamblador.pdb
